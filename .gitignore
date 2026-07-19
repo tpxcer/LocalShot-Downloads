@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.env.*
+*.dmg
+*.zip
+*.privatekey
+*.p12
+*.cer
+*.mobileprovision
+LocalShot授权管理器.app/
