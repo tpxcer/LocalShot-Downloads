@@ -7,7 +7,7 @@
 
 ## 安装
 
-1. 从本仓库的 Releases 下载 `LocalShot-0.1.1-build3-offline-license-arm64.dmg`。
+1. 从本仓库的 Releases 下载 `LocalShot-0.1.1-build4-offline-license-arm64.dmg`。
 2. 双击打开 DMG。
 3. 将 `LocalShot.app` 拖入 `Applications`（应用程序）文件夹。
 4. 在应用程序文件夹中打开 LocalShot。

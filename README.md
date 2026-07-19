@@ -4,9 +4,9 @@ LocalShot 是一款纯本地 macOS 截图工具，不包含视频录制、账号
 
 ## 下载
 
-请从 [当前公开测试版](https://github.com/tpxcer/LocalShot-Downloads/releases/tag/v0.1.1-build3) 下载 DMG。
+请从 [当前公开测试版](https://github.com/tpxcer/LocalShot-Downloads/releases/tag/v0.1.1-build4) 下载 DMG。
 
-当前公开测试版：`0.1.1 (Build 3)`
+当前公开测试版：`0.1.1 (Build 4)`
 
 - 支持 Apple 芯片 Mac（arm64）。
 - 最低系统版本为 macOS 13。
