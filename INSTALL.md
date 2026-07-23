@@ -7,7 +7,7 @@
 
 ## 安装
 
-1. 从本仓库的 Releases 下载 `LocalShot-0.1.7-build10-offline-license-arm64.dmg`。
+1. 从本仓库的 Releases 下载 `LocalShot-0.1.8-build11-offline-license-arm64.dmg`。
 2. 双击打开 DMG。
 3. 将 `LocalShot.app` 拖入 `Applications`（应用程序）文件夹。
 4. 在应用程序文件夹中打开 LocalShot。
@@ -38,9 +38,9 @@ LocalShot 不需要辅助功能权限即可完成当前手动滚动长截图。
 
 授权验证完全在本机进行，不需要登录账号或连接授权服务器。
 
-## 升级到 Build 10
+## 升级到 Build 11
 
-Build 5–9 用户可以在软件内收到 Build 10 提示并下载 DMG。Build 4 及更早版本没有更新检查功能，需要从本仓库手动下载 Build 10 DMG。打开后把新版 `LocalShot.app` 拖入“应用程序”覆盖旧版。
+Build 5–10 用户可以在软件内收到 Build 11 提示并下载 DMG。Build 4 及更早版本没有更新检查功能，需要从本仓库手动下载 Build 11 DMG。打开后把新版 `LocalShot.app` 拖入“应用程序”覆盖旧版。
 
 截图历史、设置和离线授权保存在应用包之外，LocalShot 覆盖安装不会主动删除这些数据。如果 macOS 因应用签名身份变化再次询问屏幕捕获权限，请按系统提示重新允许。
 
