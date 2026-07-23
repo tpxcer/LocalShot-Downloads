@@ -1,0 +1,1 @@
+5793dd2ad66cc3df306d9ef42c7d3250a1eb8c21f0496b1705bbc44685fb9719  LocalShot-0.2.1-build13-offline-license-arm64.dmg
