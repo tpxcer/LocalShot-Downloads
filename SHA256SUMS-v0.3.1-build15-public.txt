@@ -1,0 +1,1 @@
+b795451cc702027cc9a8fcb54ff22dc98fb5874b6874b4179f741df70547cafa  LocalShot-0.3.1-build15-offline-license-universal2-arm64-x86_64.dmg

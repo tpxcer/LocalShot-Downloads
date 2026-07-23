@@ -2,12 +2,12 @@
 
 ## 系统要求
 
-- Apple 芯片 Mac（M1、M2、M3、M4 或后续 arm64 机型）。
+- Apple 芯片 Mac（arm64）或 Intel Mac（x86_64）。
 - macOS 13 或更高版本。
 
 ## 安装
 
-1. 从本仓库的 Releases 下载 `LocalShot-0.3.0-build14-offline-license-arm64.dmg`。
+1. 从本仓库的 Releases 下载 `LocalShot-0.3.1-build15-offline-license-universal2-arm64-x86_64.dmg`。
 2. 双击打开 DMG。
 3. 将 `LocalShot.app` 拖入 `Applications`（应用程序）文件夹。
 4. 在应用程序文件夹中打开 LocalShot。
@@ -40,9 +40,9 @@ LocalShot 不需要辅助功能权限即可完成当前手动滚动长截图。
 
 授权验证完全在本机进行，不需要登录账号或连接授权服务器。
 
-## 升级到 Build 14
+## 升级到 Build 15
 
-Build 5–13 用户可以在软件内收到 Build 14 提示并下载 DMG。Build 4 及更早版本没有更新检查功能，需要从本仓库手动下载 Build 14 DMG。打开后把新版 `LocalShot.app` 拖入“应用程序”覆盖旧版。
+Build 5–14 用户可以在软件内收到 Build 15 提示并下载 DMG。Build 4 及更早版本没有更新检查功能，需要从本仓库手动下载 Build 15 DMG。打开后把新版 `LocalShot.app` 拖入“应用程序”覆盖旧版。
 
 截图历史、设置和离线授权保存在应用包之外，LocalShot 覆盖安装不会主动删除这些数据。如果 macOS 因应用签名身份变化再次询问屏幕捕获权限，请按系统提示重新允许。
 
