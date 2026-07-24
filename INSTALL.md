@@ -7,7 +7,7 @@
 
 ## 安装
 
-1. 从本仓库的 Releases 下载 `LocalShot-0.3.4-build18-offline-license-universal2-arm64-x86_64.dmg`。
+1. 从本仓库的 Releases 下载 `LocalShot-0.3.5-build19-offline-license-universal2-arm64-x86_64.dmg`。
 2. 双击打开 DMG。
 3. 将 `LocalShot.app` 拖入 `Applications`（应用程序）文件夹。
 4. 在应用程序文件夹中打开 LocalShot。
@@ -40,15 +40,17 @@ LocalShot 不需要辅助功能权限即可完成当前手动滚动长截图。
 
 授权验证完全在本机进行，不需要登录账号或连接授权服务器。
 
-## 升级到 Build 18
+## 升级到 Build 19
 
-Build 5–17 用户可以在软件内收到 Build 18 提示并下载 DMG。Build 4 及更早版本没有更新检查功能，需要从本仓库手动下载 Build 18 DMG。打开后把新版 `LocalShot.app` 拖入“应用程序”覆盖旧版。
+Build 5–18 用户可以在软件内收到 Build 19 提示并下载 DMG。Build 4 及更早版本没有更新检查功能，需要从本仓库手动下载 Build 19 DMG。打开后把新版 `LocalShot.app` 拖入“应用程序”覆盖旧版。
 
 截图历史、设置和离线授权保存在应用包之外，LocalShot 覆盖安装不会主动删除这些数据。如果 macOS 因应用签名身份变化再次询问屏幕捕获权限，请按系统提示重新允许。
 
 Build 17 开始，新录屏与截图保存在同一个目录，并一起跟随设置中的自定义目录。旧版本 `Application Support/LocalShot/Recordings` 中的视频不会自动移动或删除。
 
 Build 18 开始，“最近保存”会同时显示截图和录屏。“清空记录”默认只隐藏两类记录；只有勾选删除文件后，当前目录内由 LocalShot 生成的截图、标注项目和录屏才会一起删除。
+
+Build 19 精简状态栏“功能”分组：不再显示“区域长截图”，该功能仍可从截图选区工具栏进入；“识别屏幕文字”简化为“识别文字”。
 
 ## 后续版本更新
 

@@ -1,0 +1,1 @@
+3a6430dcb6e70c77b941da362e69267c251e9fcf3acd15f6ab1776274b856118  LocalShot-0.3.5-build19-offline-license-universal2-arm64-x86_64.dmg
