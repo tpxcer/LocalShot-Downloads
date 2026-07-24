@@ -1,0 +1,1 @@
+0b988afaec5dd1c1548ad2352acd0b67ee685da6ae988a6789f8489edfab9211  LocalShot-0.3.2-build16-offline-license-universal2-arm64-x86_64.dmg
